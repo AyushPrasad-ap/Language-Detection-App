@@ -1,0 +1,24 @@
+Estonian      
+Swedish       
+Thai          
+Tamil         
+Dutch         
+Japanese      
+Turkish       
+Latin         
+Urdu          
+Indonesian    
+Portugese     
+French        
+Chinese       
+Korean        
+Hindi         
+Spanish       
+Pushto        
+Persian       
+Romanian      
+Russian       
+English       
+Arabic        
+
+# python -m streamlit run app.py
